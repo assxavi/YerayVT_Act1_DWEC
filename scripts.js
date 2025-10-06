@@ -84,7 +84,7 @@ class Carrito{
         return carrito;
     }
 }
-// Finaliza Clase Carrito  *******************************************************************************************************
+// Finaliza Clase Carrito   *******************
 
 
 
