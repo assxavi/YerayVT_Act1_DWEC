@@ -1,4 +1,4 @@
-Actividad 1: carrito de la compra agoodshop Realizada por Abraham Cantalejo Guerrero, alumno de 2ºDAW, UNIR FP.
+Actividad 1: carrito de la compra agoodshop Realizada por yeray valdepeñas terrero, alumno de 2ºDAW, UNIR FP.
 
 Resumen de lo realizado por mi ▸ El profesor compartió la base del carrito ya que todavia no hemos dado como se crean algunos conceptos de JavaScript solicitados en la tarea ▸ Se han añadido elementos de bootstrap para mejorar la apariencia, además se ha editado minimamente CSS para mejorar la apariencia de algunos elementos ligados al Script que no se podian modificar con Bootstrap ▸ Se ha creado el JSON usando una API de Mocki.io ya que no funciona la de JSONblob ▸ Se han cambiado los articulos y añadido varios más, todos totalmente funcionales con el carrito
 
